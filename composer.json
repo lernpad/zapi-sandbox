@@ -1,0 +1,5 @@
+{
+    "require": {
+        "lernpad/zapi": "dev-master"
+    }
+}
